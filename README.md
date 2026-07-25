@@ -22,6 +22,10 @@ The application will ask the user to:
 3. Enter the message.
 4. Enter a positive numeric key.
 
+## Technical documentation
+
+Detailed technical documentation and Mermaid diagrams are available in the [`documentation`](documentation/README.md) folder.
+
 ## Tests performed
 
 The following tests verify the main workflow and the input validation implemented in the application.
