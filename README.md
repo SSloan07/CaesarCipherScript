@@ -26,6 +26,12 @@ The application will ask the user to:
 
 Detailed technical documentation and Mermaid diagrams are available in the [`documentation`](Documentation/README.md) folder.
 
+## Reference resource
+
+The following video was used as a learning reference for the Caesar cipher algorithm and its implementation:
+
+- [Caesar cipher implementation reference video](https://www.youtube.com/watch?v=DT3bsFpuikY)
+
 ## Tests performed
 
 The following tests verify the main workflow and the input validation implemented in the application.

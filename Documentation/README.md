@@ -12,3 +12,9 @@ This folder documents the structure and behavior of CaesarCipherScript. The diag
 ## Scope
 
 The diagrams describe the current command-line implementation. The application is an educational implementation of the Caesar cipher and is not intended to provide modern cryptographic security.
+
+## Reference resource
+
+The following video was used by the team as a learning reference for the Caesar cipher algorithm and its implementation:
+
+- [Caesar cipher implementation reference video](https://www.youtube.com/watch?v=DT3bsFpuikY)
