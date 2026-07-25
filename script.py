@@ -27,7 +27,7 @@ while True:
     option = valid_type("\nMenu\n1) Encryption\n2) Decryption\nChoose an option: ",(1, 2))
     language_option = valid_type("\nChoose a language\n1) Spanish\n2) English\nChoose an option: ",(1, 2))
     message = input("\nIntroduce your message: ")
-    key = valid_type("\nIntroduce your key: ")
+    key = valid_type("\nIntroduce your key: ", positive=True)
 
 
     # Validate alphabet
