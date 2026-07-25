@@ -79,5 +79,3 @@ The application rejects the key because it is not an integer and asks the user t
 <img width="1913" height="733" alt="Negative key" src="https://github.com/user-attachments/assets/ca2e82d0-7757-4ad4-8606-2edd293ed56a" />
 
 The application rejects the negative key because keys must be strictly positive. It displays an error message and asks the user to enter a positive integer.
-
-
