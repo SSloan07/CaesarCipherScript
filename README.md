@@ -76,6 +76,4 @@ The application rejects the key because it is not an integer and asks the user t
 
 The application rejects the negative key because keys must be strictly positive. It displays an error message and asks the user to enter a positive integer.
 
-## Conclusion
 
-The tests demonstrate that the application supports the complete encryption and decryption workflow and validates the menu options, numeric inputs, non-numeric keys, and negative keys without terminating unexpectedly.
