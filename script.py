@@ -1,13 +1,23 @@
-from .Utils.alphabet import (
-    alphabet_spanish,
-    alphabet_spanish_inv,
-    alphabet_english,
-    alphabet_english_inv
-)
-
-from .Core.encryption import encryption
-from .Core.decryption import decryption
-from .Utils.invalid_type import valid_type
+try:
+    from .Utils.alphabet import (
+        alphabet_spanish,
+        alphabet_spanish_inv,
+        alphabet_english,
+        alphabet_english_inv
+    )
+    from .Core.encryption import encryption
+    from .Core.decryption import decryption
+    from .Utils.invalid_type import valid_type
+except ImportError:
+    from Utils.alphabet import (
+        alphabet_spanish,
+        alphabet_spanish_inv,
+        alphabet_english,
+        alphabet_english_inv
+    )
+    from Core.encryption import encryption
+    from Core.decryption import decryption
+    from Utils.invalid_type import valid_type
 
 print("Welcome to our Caesar Cipher")
 
