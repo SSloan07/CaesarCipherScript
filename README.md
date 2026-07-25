@@ -24,7 +24,7 @@ The application will ask the user to:
 
 ## Technical documentation
 
-Detailed technical documentation and Mermaid diagrams are available in the [`documentation`](documentation/README.md) folder.
+Detailed technical documentation and Mermaid diagrams are available in the [`documentation`](Documentation/README.md) folder.
 
 ## Tests performed
 
